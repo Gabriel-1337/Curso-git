@@ -1,0 +1,16 @@
+C:\Users\gabcs\Desktop\Visual Studio e Git\Projeto teste Git\Projeto teste Git\bin\Debug\net5.0\Projeto teste Git.exe
+C:\Users\gabcs\Desktop\Visual Studio e Git\Projeto teste Git\Projeto teste Git\bin\Debug\net5.0\Projeto teste Git.deps.json
+C:\Users\gabcs\Desktop\Visual Studio e Git\Projeto teste Git\Projeto teste Git\bin\Debug\net5.0\Projeto teste Git.runtimeconfig.json
+C:\Users\gabcs\Desktop\Visual Studio e Git\Projeto teste Git\Projeto teste Git\bin\Debug\net5.0\Projeto teste Git.runtimeconfig.dev.json
+C:\Users\gabcs\Desktop\Visual Studio e Git\Projeto teste Git\Projeto teste Git\bin\Debug\net5.0\Projeto teste Git.dll
+C:\Users\gabcs\Desktop\Visual Studio e Git\Projeto teste Git\Projeto teste Git\bin\Debug\net5.0\ref\Projeto teste Git.dll
+C:\Users\gabcs\Desktop\Visual Studio e Git\Projeto teste Git\Projeto teste Git\bin\Debug\net5.0\Projeto teste Git.pdb
+C:\Users\gabcs\Desktop\Visual Studio e Git\Projeto teste Git\Projeto teste Git\obj\Debug\net5.0\Projeto teste Git.csprojAssemblyReference.cache
+C:\Users\gabcs\Desktop\Visual Studio e Git\Projeto teste Git\Projeto teste Git\obj\Debug\net5.0\Projeto teste Git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabcs\Desktop\Visual Studio e Git\Projeto teste Git\Projeto teste Git\obj\Debug\net5.0\Projeto teste Git.AssemblyInfoInputs.cache
+C:\Users\gabcs\Desktop\Visual Studio e Git\Projeto teste Git\Projeto teste Git\obj\Debug\net5.0\Projeto teste Git.AssemblyInfo.cs
+C:\Users\gabcs\Desktop\Visual Studio e Git\Projeto teste Git\Projeto teste Git\obj\Debug\net5.0\Projeto teste Git.csproj.CoreCompileInputs.cache
+C:\Users\gabcs\Desktop\Visual Studio e Git\Projeto teste Git\Projeto teste Git\obj\Debug\net5.0\Projeto teste Git.dll
+C:\Users\gabcs\Desktop\Visual Studio e Git\Projeto teste Git\Projeto teste Git\obj\Debug\net5.0\ref\Projeto teste Git.dll
+C:\Users\gabcs\Desktop\Visual Studio e Git\Projeto teste Git\Projeto teste Git\obj\Debug\net5.0\Projeto teste Git.pdb
+C:\Users\gabcs\Desktop\Visual Studio e Git\Projeto teste Git\Projeto teste Git\obj\Debug\net5.0\Projeto teste Git.genruntimeconfig.cache
