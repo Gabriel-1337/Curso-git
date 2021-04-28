@@ -11,16 +11,17 @@ namespace Projeto_teste_Git
             DateTime t = new DateTime();
             if (t.Hour >= 05.00 && t.Hour <=11.59 )
             {
-                Console.WriteLine("Bom Dia!!");
+                Console.WriteLine("Olá Bom Dia!!");
             }
             else if(t.Hour >= 12.00 && t.Hour <=17.59 )
             {
-                Console.WriteLine("Boa Tarde!!");
+                Console.WriteLine("Olá Boa Tarde!!");
             }
             else
             {
-                Console.WriteLine("Boa Noite!!");
+                Console.WriteLine("Olá Boa Noite!!");
             }
+            Console.WriteLine("Que bom vê-lo novamente!! :)");
             Console.ReadLine();
         }
     }
